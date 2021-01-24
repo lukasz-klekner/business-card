@@ -45,6 +45,11 @@ body {
     margin-bottom: 22px;
 }
 
+.person__link {
+    color: #E20613;
+    text-decoration: none;
+}
+
 .special {
     color: #ED6D05;
 }
