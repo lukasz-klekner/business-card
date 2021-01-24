@@ -25,6 +25,17 @@ body {
     padding: 32px;
 }
 
+.person {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.person__photo {
+    width: 100%;
+    margin-right: 32px;
+}
+
 .person__name {
     font-size: 36px;
     font-weight: normal;
